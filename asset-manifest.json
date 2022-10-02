@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AqeelAsghar/simpleReactJsProject.github.io.git/static/css/main.f7928baf.css",
+    "main.js": "/AqeelAsghar/simpleReactJsProject.github.io.git/static/js/main.e44d32ee.js",
+    "static/js/787.624ad79f.chunk.js": "/AqeelAsghar/simpleReactJsProject.github.io.git/static/js/787.624ad79f.chunk.js",
+    "index.html": "/AqeelAsghar/simpleReactJsProject.github.io.git/index.html",
+    "main.f7928baf.css.map": "/AqeelAsghar/simpleReactJsProject.github.io.git/static/css/main.f7928baf.css.map",
+    "main.e44d32ee.js.map": "/AqeelAsghar/simpleReactJsProject.github.io.git/static/js/main.e44d32ee.js.map",
+    "787.624ad79f.chunk.js.map": "/AqeelAsghar/simpleReactJsProject.github.io.git/static/js/787.624ad79f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7928baf.css",
+    "static/js/main.e44d32ee.js"
+  ]
+}
